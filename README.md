@@ -43,4 +43,4 @@ Resnet 18: ResNet-18 is a PyTorch-based machine learning framework designed to d
 3. After you run it, if it is sucessful, there will be a model called "resnet18.onnx" in the jetson-inference/python/training/classification/models/animals folder.
 
 ## Video of how my model works
-[View a video explanation here](video link)
+https://youtu.be/bn5ERX3UDd8
